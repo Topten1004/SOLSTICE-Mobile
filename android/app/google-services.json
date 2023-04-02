@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871800563389",
+    "project_id": "solstice-d447d",
+    "storage_bucket": "solstice-d447d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871800563389:android:648fc7ad12074258e0f9d4",
+        "android_client_info": {
+          "package_name": "com.solstice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871800563389-7dsniriocsk3er0sv9f17i8j5v5buua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPojcwCkT3xFJ8OjA5IumXdon6PDyUos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871800563389-7dsniriocsk3er0sv9f17i8j5v5buua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
